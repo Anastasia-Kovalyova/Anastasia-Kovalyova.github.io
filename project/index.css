@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(230, 186, 16);
+  display: flex;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+}
+
+header ul li {
+  margin: 0 5px;
+}
+
+h1 {
+  color: #45480d;
+  margin: 0 15px;
+  line-height: 60px;
+  height: 60px;
+}
+
+p {
+  border: 1px;
+  margin: 25px;
+}
+
+picture {
+    height: 60px;
+}
