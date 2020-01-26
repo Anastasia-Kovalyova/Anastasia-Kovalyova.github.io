@@ -30,5 +30,15 @@ p {
 }
 
 picture {
-    height: 60px;
+  height: 60px;
+}
+
+footer img {
+  float: right;
+  width: 25px;
+  height: 25px;
+}
+
+.full-image img {
+  width: 100%;
 }
