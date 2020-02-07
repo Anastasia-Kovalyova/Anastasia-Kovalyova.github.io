@@ -32,7 +32,6 @@ nav ul li a {
   margin: 0 5px;
   display: block;
   color: black;
-  font-family: 'Nanum Brush Script', cursive;
 }
 
 h1 {
@@ -46,6 +45,7 @@ h2 {
 p {
   border: 1px;
   margin: 25px;
+  font-family: 'Abel', sans-serif;
 }
 
 picture {
