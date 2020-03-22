@@ -1,0 +1,35 @@
+ table{
+     box-shadow:0 0 30px #0000009c;
+     border-spacing: 0px;
+     height: 250px;
+     margin: auto;
+     font-family: sans-serif;
+ }
+ th,td{
+     border: 0.5px solid rgba(238, 226, 226, 0.705);
+ }
+ .title{
+     background-color: #000000;
+     color: #fafaf9;
+     text-align: center;
+ }
+ th{
+     background-color: black;
+     color: yellow;
+     padding: 10px;
+     font-size: 20px;
+ }
+ td{
+     padding: 5px;
+ }
+ p{
+     text-align: center;
+     font-size: 30px;
+     font-family: cursive;
+     color: #0c0c0c;
+     text-shadow: 0 0 3px #ca0707fb;
+ }
+
+ .grey td {
+    background-color: #BABABA;
+ }
