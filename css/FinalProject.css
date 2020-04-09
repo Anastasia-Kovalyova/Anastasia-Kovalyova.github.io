@@ -316,7 +316,7 @@ html {
 }
 
 .image-holder img {
-  width: 95%;
+  width: 400px;
   height: 100%;
 }
 .separator img{
@@ -377,4 +377,12 @@ html {
 }
 .subheader-1 h2{
   font-size: 30px;
+}
+
+.content-holder.off {
+  padding-left: 44px;
+}
+
+.site-plan img {
+  width: 100%;
 }
